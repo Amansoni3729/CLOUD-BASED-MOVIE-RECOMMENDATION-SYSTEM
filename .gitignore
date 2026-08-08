@@ -1,0 +1,62 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+backend/venv/
+backend/.venv/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+backend/.env
+backend/.env.*
+
+# =========================
+# Large trained model
+# =========================
+backend/model/similarity.pkl
+
+# =========================
+# Node / React
+# =========================
+node_modules/
+frontend/node_modules/
+
+# =========================
+# Frontend build
+# =========================
+frontend/dist/
+frontend/build/
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
