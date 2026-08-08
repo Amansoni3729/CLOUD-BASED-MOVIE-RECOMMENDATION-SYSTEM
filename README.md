@@ -8,7 +8,7 @@ This README explains everything step by step: how to run the app on your own com
 
 **Landing page**
 
-![Landing page](screenshots/landing-page.png)
+![Landing page](screenshots/landing-page.png.png)
 
 **Dashboard (after login)**
 
