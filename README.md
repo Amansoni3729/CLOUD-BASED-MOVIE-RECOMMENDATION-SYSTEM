@@ -12,7 +12,7 @@ This README explains everything step by step: how to run the app on your own com
 
 **Dashboard (after login)**
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ---
 
